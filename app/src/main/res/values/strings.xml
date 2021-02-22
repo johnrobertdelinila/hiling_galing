@@ -1,0 +1,552 @@
+<resources>
+    <string name="app_name">Hiling Galing</string>
+    <string name="home_title">Hiling\nGaling</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="home_description">Identify Herbal</string>
+    <string name="camera">Camera</string>
+    <string name="photo">Photo Album</string>
+    <string name="result_title">Sorry</string>
+    <string name="no_result">We don\'t recognize your image. Please try another image instead.</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GET STARTED</string>
+
+    <string name="slide_1_title">Your Benefits</string>
+    <string name="slide_1_desc">Curing a remedy with the use of herbs can prove to be really beneficial. Herbs deal with health in all aspects and physical well-being.</string>
+    <string name="slide_2_title">Life Enhancing</string>
+    <string name="slide_2_desc">This app is the perfect companion when you need quick and natural remedies for common health problem.</string>
+    <string name="slide_3_title">At Your Fingertips</string>
+    <string name="slide_3_desc">Think of it as having instant access to a handbook of natural home remedies &amp; cures right on your mobile, available anytime and anywhere.</string>
+
+    <string name="main_content_description_implementation_image">implementation image</string>
+    <string name="transition_name_implementation_image" translatable="false">shared_element</string>
+    <string name="no_results">We can\'t recognize your image…</string>
+
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="plant_name">Scientific Name:</string>
+    <string name="description">Description:</string>
+    <string name="treatment">Treatment:</string>
+    <string name="usage">Preparation &amp; Use:</string>
+
+    <string name="amplaya_title">Ampalaya Leaves</string>
+    <string name="amplaya_name">Momordica charantia</string>
+    <string name="amplaya_location">Grassland, Roadside &amp; Pathways\n(Dalumpinas Este, Calabugao, San Agustin)</string>
+    <string name="amplaya_common">Ampalaya (Tag.)\n	Ampalia (Tag.)\nApalaya (Tag.)\nApalia (Pamp.)\nApape (Ibn.)\nApapet (Itn.)\nMargoso (Tag.)</string>
+    <string name="amplaya_topical">Topical</string>
+    <string name="amplaya_good">Diabetes</string>
+    <string name="amplaya_desc">This vegetable is very popular worldwide in treating diabetes for it contains compounds such as flavonoids and alkaloids. It has a high medicinal value that can help to treat and prevent some serious diseases. This mixture helps the body to produce more insulin which controls the blood sugar levels of a diabetic person.</string>
+    <string name="amplaya_treatment">Diabetes, Analgesic, Eye problems, Respiratory ailments, Hair and scalp problems, Weight lossSource of energy, Antioxidant, Stomach problems, Hepatoprotection, HIV virus, Hemorrhoids</string>
+    <string-array name="amplaya_usage">
+        <item>Both wild and cultivated forms are edible.</item>
+        <item>Fruit of wild form usually roasted over fire and eaten with salt or "heko."</item>
+        <item>The leaves and fruit - used as vegetables - are excellent sources of Vit B, iron, calcium, and phosphorus. It has twice the amount of beta carotene in broccoli and twice the calcium content of spinach. Characteristically bitter-tasting, slight soaking in salty water before cooking removes some of the bitter taste of the fruit.</item>
+        <item>Seeds also used to expel worms.</item>
+    </string-array>
+
+    <string name="sambong_title">Sambong</string>
+    <string name="sambong_name">Blumea camphor</string>
+    <string name="sambong_location">Grassland &amp; Pathways\n(Pagdaraoan, Birunget, Biday, Namtutan, Masicong)</string>
+    <string name="sambong_common">Alibhun; Alimon (Panay Bisaya)\nAyoban; Bukodkud; Gintin-gintin; Hamlibon;Bukadkad (Leyte)\nDalapot (Cebu Bisaya)\nKaliban, Gabon subsub (Tagalog)\nKalibura (Tagbanua)\nLabulan (Subanum)\nLakadbulan (Bisaya, Sulu)\nSambun (Sulu)\nSob-sob, Subusub, subsob (Iloko)</string>
+    <string name="sambong_topical">Intake</string>
+    <string name="sambong_good">Cough</string>
+    <string name="sambong_desc">Sambong is a half woody, strongly aromatic shrub, densely and softly hairy, 1–4 m high. Stems grow up to 2.5 cm in diameter. Leaves are simple, alternate, elliptic– to oblong–lanceolate, 7– 20 cm long, toothed at the margins, pointed or blunt at the tip, narrowing to a short petiole which are often auricled or appendaged.</string>
+    <string name="sambong_treatment">Cough, colds, fever, asthma, pharyngitis, rheumatism, dyspepsia, boils, diarrhea Phytochemicals Phytochemical screening of ethanol leaf extract yielded alkaloids, iridoids, phenolic acids, flavonols and flavonoids.</string>
+    <string-array name="sambong_usage">
+        <item>A decoction (boil in water) of Sambong leaves as like tea and drink a glass 3 or 4 times a day.</item>
+        <item>The leaves can also be crushedor pounded and mixed with coconut oil.</item>
+        <item>For headaches, apply crushed and pounded leaves on forehead and temples.</item>
+        <item>Decoction of leaves is used assponge bath.</item>
+        <item>Decoction of the roots, on the other hand, is to be taken in ascure for fever.</item>
+    </string-array>
+
+    <string name="garlic_title">Bayabas</string>
+    <string name="garlic_name">Psidium guajava</string>
+    <string name="garlic_location">Garden &amp; Grassland\n(Tanqui, Bangcusay, Abut, Camansi)</string>
+    <string name="garlic_common">Bagabas (Igorot)\nBayabo (Ibanag)\nBayauas (Bicol, Pangasinan)\nBiabas (Sulu)\nBayawas (Bikol)\nGaiyabat, Gaiyabit (Ifugao)\nGeyabas (Bontok)\nGuayabas, Kalimbahin, Tayabas (Tagalog)\nGuyabas, Bayabas (Iloko)\nGuava (English)</string>
+    <string name="garlic_topical">Intake</string>
+    <string name="garlic_good">Diarrhea</string>
+    <string name="garlic_desc">Bayabas is a somewhat hairy plant reaching a height of 8 meters. Young branches are 4-angled. Leaves are opposite, oblong to elliptic, and 5 to 1 centimeters long, the apex being pointed, and the base usually rounded. Peduncles are 1- to 3-flowered. Flowers are white, 3 to 3.5 centimeters across, with in-curved petals, coming out solitary or two to three in the leaf axils. Numerous stamens form the attractive part of the flower. Inferior ovaries develop into round or obovoid green fruits 4 to 9 centimeters long, turning yellow on ripening and have edible, aromatic, seedy pulp.</string>
+    <string name="garlic_treatment">Diarrhea, Flu, Blood pressure, Osteoarthritis, Cancer, Prostate Cancer</string>
+    <string-array name="garlic_usage">
+        <item>Fresh leaves used for wounds and toothache.</item>
+        <item>Applying a gel containing 0.6 percent ajoene, a chemical in garlic, twice daily for one week seems to be as effective as antifungal medication for treating ringworm.</item>
+        <item>Decoction or infusion of fresh leaves used for wound cleaning to prevent infection and to facilitate healing.</item>
+        <item>Warm decoction of leaves for aromatic baths.</item>
+    </string-array>
+
+    <string name="lagundi_title">Lagundi</string>
+    <string name="lagundi_name">Vitex negundo</string>
+    <string name="lagundi_location">Pathways, Roadsides &amp; Garden\n(Ilocanos Sur, Nagyubuyuban, Madayegdeg)</string>
+    <string name="lagundi_common">Agno-casto (Spanish)\nDabtan (Ifugao)\nDangla (Iloko)\nKamalan (Tagalog)\nLingei (Bontok)\nLimo-limo (Iloko)\nSagarai (Bagobo)\nTugas (Visayan)</string>
+    <string name="lagundi_topical">Intake</string>
+    <string name="lagundi_good">Asthma</string>
+    <string name="lagundi_desc">Lagundi is an erect, branched tree or shrub, 2–5 m high. Leaves are usually 5–foliate, rarely with 3 leaflets only and palmately arranged. Leaflets are lanceolate, entire, 4–10 cm long, slightly hairy beneath, and pointed at both ends, the middle leaflets being larger than the others, and distinctly stalked. Flowers are numerous, blue to lavender, 6–7 mm long, borne in terminal inflorescences (panicles) 10–20 cm long. Calyx is hairy, and 5-toothed. Corolla is densely hairy in the throat, and the middle lobe of the lower lip is longest. Fruit is a succulent drupe, globose, black when ripe, about 4 mm in diameter.</string>
+    <string name="lagundi_treatment">Cough, colds, fever, asthma, pharyngitis, rheumatism, dyspepsia, boils, diarrhea Phytochemicals Phytochemical screening of ethanol leaf extract yielded alkaloids, iridoids, phenolic acids, flavonols and flavonoids.</string>
+    <string-array name="lagundi_usage">
+        <item>Boil half cup of chopped fresh or dried leaves in 2 cups of water for10 to 15 minutes. Drink half cup three times a day</item>
+        <item>For skin diseases or disorders,apply the decoction of leaves androots directly on skin.</item>
+        <item>The root is specially good for treating dyspepsia, worms, boils,colic and rheumatism.</item>
+    </string-array>
+
+    <string name="akapulko_title">Akapulco</string>
+    <string name="akapulko_name">Senna alata</string>
+    <string name="akapulko_location">Roadsides &amp; Garden\n(Cabarsican, Madayegdeg, Lingsat, Sacyud)</string>
+    <string name="akapulko_common">Andadisi (Tinggian)\nAncharasi (Igorot)Andalan (Sulu)\nBayabasin, Bikas-bikas, Kasitas (Bikol, Bisaya)\nBuni-buni (Bagobo)\nGamot-sa-buni; Kapurko (Tagalog)Palo China (Bisaya)\nSonting (Tag.)\nSunting (Cebu Bisaya)</string>
+    <string name="akapulko_topical">Topical</string>
+    <string name="akapulko_good">Stomach problems</string>
+    <string name="akapulko_desc">Akapulko is a coarse, erect, branched shrub, 1.5–3 m high. Leaves are pinnate and 40–60 cm long, with orange rachis on stout branches. Each leaf has 16–28 leaflets, 5–15 cm in length, broad and rounded at the apex, with a small point at the tip. Leaflets gradually increase in size from the base towards the tip of the leaf. Inflorescences are terminal and at the axils of the leaves, in simple or panicled racemes, and 10–50 cm long. Flowers are yellow, about 4 cm in diameter, at the axils of thin, yellow, oblong, concave bracts which are 2.5–3 cm long. Pod is rather straight, dark brown or nearly black, about 15 cm long and 15 mm wide. On both sides of the pods there is a wing that runs the length of the pod. Pod contains 50–60 flattened, triangular seeds.</string>
+    <string name="akapulko_treatment">Ringworms, skin fungal infections, bronchitis, asthma, diuretic, cough, fever, stomach problems Phytochemicals Phytochemical studies of crude extract of stem bark yielded important secondary metabolites - tannins, steroids, alkaloids, anthraquinones, terpenes, carbohydrates and saponins.</string>
+    <string-array name="akapulko_usage">
+        <item>For external use, pound the leaves of the Akapulko plant,squeeze the juice and apply on affected areas.</item>
+        <item>As the expectorant for bronchitis and dyspnoea, drink decoction(soak and boil for 10 to 15 minutes)of Akapulko leaves. The samepreparation may be used as amouthwash, stringent, and washfor eczema.</item>
+        <item>As laxative, cut the plant parts(roots, flowers, and the leaves) into a manageable size then prepare adecoction Note: The decoctionlooses its potency if not used for along time. Dispose leftovers afterone day.</item>
+        <item>The pounded leaves of Akapulko has purgative functions, specifically against ringworms</item>
+    </string-array>
+
+    <string name="tsaang_title">Tsaang Gubat</string>
+    <string name="tsaang_name">Carmona retusa</string>
+    <string name="tsaang_location">Grassland, Pathways &amp; Garden\n(Cabarsican, Madayegdeg, Lingsat, Sacyud)</string>
+    <string name="tsaang_common">Abraaka (Ilk.)\nArtanusa (C. Bis.)\nDamong maria (Tag.)\nGilbas (C. Bis.)\nKamaria, maria (Tag.)\nTinisas (Tagalog)\nErbaka (Ilk.)\nCintura de S. Jose (Span.)</string>
+    <string name="tsaang_topical">Intake</string>
+    <string name="tsaang_good">Itchiness</string>
+    <string name="tsaang_desc">Tsaang gubat is an erect, every branched shrub growing up to 1–4 m high. Leaves are in clusters on short branches, obovate to oblong–obovate, 3–6 cm long, entire or somewhat toothed or lobed near the apex and pointed at the base, short stalked and rough on the upper surface. Flowers are white, small, axillary, solitary, 2–4 on a common stalk, borne in inflorescences shorter than the leaves. Calyx–lobes are green, somewhat hairy, and linear, about 5–6 mm long. Corolla is white, 5 mm long, and divided into oblong lobes. Fruit is a drupe, rounded, yellow when ripe, 4–5 mm in diameter, fleshy, with a 4-seeded stone, fleshy on the outer part, and stony inside. </string>
+    <string name="tsaang_treatment">Eczema, scabies, itchiness, wounds in child birth, gastroenteritis, dysentery, diarrhea, stomatitis, stomach pain Phytochemicals Phytochemical screening yielded alkaloids, flavonoids, glycosides, tannins, terpenoids, and saponins.</string>
+    <string-array name="tsaang_usage">
+        <item>Thoroughly wash the leaves of tsaang gubat in running water.Chop to a desirable size and boil 1cup of chopped leaves in 2 cups of water. Boil in low heat for 15 to 20minutes and drain.</item>
+        <item>Take a cupful every 4 hours for diarrhea, gastroenteritis and stomach pains.• Gargle for stronger teeth and prevent cavities.</item>
+        <item>Drink as tea daily for generalgood health.</item>
+        <item>Gargle for stronger teeth andprevent cavities.</item>
+    </string-array>
+
+    <string name="yerba_title">Yerba Buena</string>
+    <string name="yerba_name">Mentha</string>
+    <string name="yerba_location">Grassland, Roadsides &amp; Garden\n(Saoay, Langcuas, Bungro, Apaleng)</string>
+    <string name="yerba_common">Ablebana (Ifugao)\nHerba buena (Spanish)\nHilbas\nMenta\nMinze (Germany)\nMint, peppermint (English)</string>
+    <string name="yerba_topical">Topical</string>
+    <string name="yerba_good">Rheumatism</string>
+    <string name="yerba_desc">Hierba buena is a prostrate, smooth, much–branched, usually purplish, strongly aromatic herb, with stems growing up to 40 cm long, with ultimate ascending terminal branches. Leaves are elliptic to oblong–ovate, 1.5–4 centimeters long, short-stalked with toothed margins, and rounded or blunt tipped. Flowers are hairy and purplish to bluish, borne in axillary headlike whorls. Calyx teeth are triangular or lanceolate and hairy; the corolla is also hairy.</string>
+    <string name="yerba_treatment">Cough, colds, insect bites, rheumatism, gout, body aches, indigestion, menstrual/gas pain Phytochemicals Phytochemical screening of powdered plant samples (root, stem, and leaves) yielded alkaloids, polyphenols, flavonoids, tannins, saponins, cardiac glycosides, and diterpenes.</string>
+    <string-array name="yerba_usage">
+        <item>Wash fresh Yerba Buena leavesin running water. Chop to size for dried leaves, crush) and boil 2teaspoons of leaves in a glass of water. Boil in medium heat for 15to 20 minutes.</item>
+        <item>As analgesic, take a cupful every3 hours.</item>
+        <item>For tooth aches, pound the fresh leaves, squeeze juice out and apply on a cotton ball then bite on to the aching tooth.</item>
+        <item>Yerba buena leaves may be heated over fire and placed over the forehead for headaches.</item>
+    </string-array>
+
+    <string name="niyog_title">Niyog-niyogan</string>
+    <string name="niyog_name">Combretum indicum</string>
+    <string name="niyog_location">Roadsides &amp; Garden\n(Parian, Lingsat, Ilocanos Norte)</string>
+    <string name="niyog_common">Acibar (Spanish)\nDilang-boaia; Dilang buaya (Bikol)\nDilang-halo (Bisaya)\nSabila pinya (Tagalog)\nAloe; Curacao aloe (English)</string>
+    <string name="niyog_topical">Intake</string>
+    <string name="niyog_good">Diarrhea</string>
+    <string name="niyog_desc">Niyog-niyogan is an erect, glabrous, unbranched shrub growing to a height of 5 meters. Leaves are crowded at the end of the stems, spreading and short-petioled, oblanceolate with a cordate base and an acute apex. Blade is coriaceous and dark-green, coarsely toothed growing to more than 25 centimeters long. Fruit is ovoid, angular, up to 4 centimeters long, on short peduncles and crowded at the axils of the leaves. The leaves and fruits leave a pattern of scars on the trunk.</string>
+    <string name="niyog_treatment">hypertension, diabetes, kidney stones, and high cholesterol.</string>
+    <string-array name="niyog_usage">
+        <item>Seeds of niyog-niyogan can be taken as an anthelmintic. These are eaten raw two hours before the patient’s last meal of the day. Adults may take 10 seeds while children 4 to 7 years of age may eat up to four seeds only. Children from ages 8 to 9 may take six seeds and seven seeds may be eaten by children 10 to 12 years old.</item>
+        <item>Decoctions of its roots are also sometimes used as a remedy for rheumatism while its fruits are used as an effective way to relieve toothaches.</item>
+    </string-array>
+
+    <string name="gotu_title">Neem Tree</string>
+    <string name="gotu_name">Azadirachta indica</string>
+    <string name="gotu_location">Garden &amp; Pathways\n(Masicong, Tanquigan, San Vicente, Cadaclan, Baraoas)</string>
+    <string name="gotu_common">Dolontas (Tag.)\nManzanilla (Fil.)\nMansanilya-a-babasit (Ilk.)\nRoman camomile, garden camomile (Engl.)\nRosas de Japon (Span.)\nWinter aster, ground apple, Whig plant (Engl.)</string>
+    <string name="gotu_topical">Topical</string>
+    <string name="gotu_good">Bloody nose</string>
+    <string name="gotu_desc">Neem is a tree. The bark, leaves, and seeds are used to make medicine. Less often, the root, flower, and fruit are also used.</string>
+    <string name="gotu_treatment">leprosy, eye disorders, bloody nose, intestinal worms, stomach upset, loss of appetite, skin ulcers, diseases of the heart and blood vessels (cardiovascular disease), fever, diabetes, gum disease (gingivitis), and liver problems.</string>
+    <string-array name="gotu_usage">
+        <item>Some people apply neem directly to the skin to treat head lice, skin diseases, wounds, and skin ulcers; as a mosquito repellent; and as a skin softener.</item>
+        <item>The stem, root bark, and fruit are used as a tonic and astringent.</item>
+    </string-array>
+
+    <string name="oregano_title">Oregano</string>
+    <string name="oregano_name">Origanum vulgare</string>
+    <string name="oregano_location">Roadsides &amp; Pathways\n(Bato, Pagdalagan, Sevilla, Sagayad, Pacpaco)</string>
+    <string name="oregano_common">Balunsaying (Bis.)\nBangali (Bik.)\nKakuentasa (Tag.)\nKiuingam (If.)\nKolintasan (Bis.)\nKuentas-kuentasan (Tag.)\nLasa (Iv.)\nSaging-saging (Tag.)\nTapuranga (Bis.)</string>
+    <string name="oregano_topical">Topical</string>
+    <string name="oregano_good">Heartburn</string>
+    <string name="oregano_desc">Oregano is a culinary and medicinal herb from the mint, or Lamiaceae family. It has been used in medicine and cooking for thousands of years. It adds flavor, and it may have a number of health benefits.</string>
+    <string name="oregano_treatment">coughs, asthma, croup, and bronchitis. It is also used for gastrointestinal (GI) disorders such as heartburn and bloating. Other uses include treating menstrual cramps, rheumatoid arthritis, urinary tract disorders including urinary tract infections (UTIs), headaches, and heart conditions.</string>
+    <string-array name="oregano_usage">
+        <item>Oregano oil is also used topically as an insect repellent.</item>
+        <item>The oil of oregano is taken by mouth for intestinal parasites, allergies, sinus pain, arthritis, cold and flu, swine flu, earaches, and fatigue. </item>
+        <item>It is applied to the skin for skin conditions including acne, athletes foot, oily skin, dandruff, canker sores, warts, ringworm, rosacea, and psoriasis; as well as for insect and spider bites, gum disease, toothaches, muscle pain, and varicose veins. </item>
+    </string-array>
+
+    <string name="pancit_title">Pansit-pansitan</string>
+    <string name="pancit_name">Peperomia pellucida</string>
+    <string name="pancit_location">Grasslands &amp; Grassland\n(Pias, Siboan-Otong, Poro, Birunget, Baraoas)</string>
+    <string name="pancit_common">Ulasiman bato\nUlasimang bato\nIkmo-ikmohan\nSida-sida\nSinaw-sinaw\nTagulinaw\nTangon-tangon</string>
+    <string name="pancit_topical">Topical</string>
+    <string name="pancit_good">Pimple</string>
+    <string name="pancit_desc">Pansit-pansitan is an erect, branched, annual herb, shallow rooted, reaching up to 40 centimeters high, with very succulent stems. Stems are round, often about 5 millimeters thick. Leaves are alternate, heart-shaped and turgid, as transparent and smooth as candle wax. Spikes are green, erect, very slender, 1 to 6 centimeters long. Tiny dot-like flowers scattered along solitary and leaf-opposed stalk (spike); naked; maturing gradually from the base to the tip; turning brown when ripe.</string>
+    <string name="pancit_treatment">Arthritis, Gout, Skin boils, abscesses, pimples, Headache, Abdominal pains, kidney problems</string>
+    <string-array name="pancit_usage">
+        <item>Leaves and stems may be eaten as vegetable.</item>
+        <item>In salads, the fresh plant has the crispness of carrot sticks and celery.</item>
+    </string-array>
+
+    <string name="malunggay_title">Malunggay</string>
+    <string name="malunggay_name">Moringa oleifera</string>
+    <string name="malunggay_location">Roadsides &amp; Garden\n(Bangcusay, Catbangen, Masicong, Puspus, Sevilla)</string>
+    <string name="malunggay_common">Arunggai (Pang.)\nBalungai (P. Bis.)\nDool (Bik.)\nKamalongan (P. Bis.)\nKalamungai (C. Bis.)\nKalungai (Bik., Bis., Tag.)\nKalunggay (Bik.)\nKamalungai (Pamp., Tag.)\nKomkompilan (Ilk.)\nMarunggay (Ilokano)\nMolongai (Tag.)</string>
+    <string name="malunggay_topical">Intake</string>
+    <string name="malunggay_good">Hypertension</string>
+    <string name="malunggay_desc">Malunggay is also commonly referred to as moringa leaves or drumstick tree because of its long and slender tree. The health benefits of malunggay are well known not just in Asia and Africa but also in other countries across the globe.</string>
+    <string name="malunggay_treatment">Scalp problems, Asthma, Skin rejuvenation, Hypertension, Anthelmintic, Diabetes, Anti-inflammatory, Eye problems, Anti-cancer, Anti-cancer, Snake bites</string>
+    <string-array name="malunggay_usage">
+        <item>Flowers, young leaves and young pods eaten as a vegetable inn the Philippines, Malaya, and India.</item>
+        <item>Seeds can be removed from pods and boiled like peas, fried or eaten like peanuts.</item>
+    </string-array>
+
+    <string name="tawa_title">Tawa-tawa</string>
+    <string name="tawa_name">Euphorbia hirta</string>
+    <string name="tawa_location">Pathways &amp; Roadsides\n(Saoay, Madayegdeg, Biday, Abut, Bangbangolan)</string>
+    <string name="tawa_common">Agho, Aghog (Panay Bisaya)\nKabahero (Cebu Bisaya)\nKariskis; Kompokompitis (Iloko)\nLoiloi (Samar-Leyte Bisaya)Santa Elena (Spanish)</string>
+    <string name="tawa_topical">Topical</string>
+    <string name="tawa_good">Antifungal</string>
+    <string name="tawa_desc">Gatas-gatas is a slender-stemmed, annual hairy plant with many branches from the base to the top, the branches simple or forked and ascending or spreading, up to 40 centimeters tall, reddish or purplish in color. Leaves are opposite, elliptic-oblong to oblong-lanceolate, distichous, 1 to 2.5 centimeters long, usually blotched with purple in the middle, toothed at the margin. Involucres are numerous, purplish to greenish in color, borne in dense, axillary, stalkless or short-stalked clusters or crowded cymes, about 1 millimeter in length. Capsules are broadly ovoid, hairy, three-angled, about 1.5 millimeters long.</string>
+    <string name="tawa_treatment">anti-asthmatic, antibacterial, antidote, antifertility, antifungal, antimalarial, anti-spasmodic, anthelmintic, antidysenteric, diuretic, expectorant, pectoral, hemostatic, sedative, soporific.</string>
+    <string-array name="tawa_usage">
+        <item>Used for boils and wounds.</item>
+        <item>White latex used as eye drops for conjunctivitis. Paste of leaves applied to scorpion bites. Latex applied to swelling, piles, and boils.</item>
+    </string-array>
+
+    <string name="saluyot_title">Saluyot</string>
+    <string name="saluyot_name">Corchorus</string>
+    <string name="saluyot_location">Grasslands &amp; Garden\n(Barangay III (Poblacion), Catbangen, Nagyubuyuban)</string>
+    <string name="saluyot_common">Hubar (Sul.)\nKampupot (Pamp., Tag.)\nLumabi (Mag.)\nMalul (Mag.)\nMalur (Sul.)\nManul (Bis.)\nSambac (Engl.)</string>
+    <string name="saluyot_topical">Topical</string>
+    <string name="saluyot_good">Antioxidant</string>
+    <string name="saluyot_desc">Saluyot is a herbaceous vine that is a popular leafy vegetable in Southeast Asia. It is a good source of iron, vitamins B &amp; C and calcium. Medicinal uses include treatment of gestational diabetes in pregnant women.</string>
+    <string name="saluyot_treatment">Antioxidant, Anti-inflammatory, Antidiabetic, Antihypertensive, Diuretic, Laxative, Hepatoprotective, Antibacterial, Antifungal, Anti-aging, Analgesic</string>
+    <string-array name="saluyot_usage">
+        <item>Saluyot is an edible vegetable considered safe for human and animal consumption.</item>
+        <item>In some cultures, saluyot is used as antifertility concoction, although this is not yet scientifically verifified. Studies have shown that saluyot contains flavanoids has antifertility activity.</item>
+    </string-array>
+
+
+    <string name="sampalukan_title">Sampa-sampalukan</string>
+    <string name="sampalukan_name">Phyllanthus niruri</string>
+    <string name="sampalukan_location">Pathways &amp; Roadsides\n(Poro, Canaoay, Bato)</string>
+    <string name="sampalukan_common">Asam (Sul.)\nKalamagi (Bis., Ibn.)\nSalamagi (Ilk.)\nSalomagi (Ilk.)\nSalunagi (Ting.)\nSambag (P. Bis.)\nSambagi, sambi (Bis.))</string>
+    <string name="sampalukan_topical">Intake</string>
+    <string name="sampalukan_good">anti-HIV</string>
+    <string name="sampalukan_desc">Sampasampalukan is an erect, branching, slender, smooth herb growing 50 to 60 centimeters high. Leaves are small and oblong, alternate and often imbricated, oblong to elliptic-oblong, 5 to 8 millimeters long, rather pale beneath, and on very short stalks. Flowers are axillary and solitary, pale green or white, about 0.5 millimeter long. Capsules are smooth, rounded or somewhat flattened, 1.5 to 2 millimeters in diameter.</string>
+    <string name="sampalukan_treatment">Astringent, cholagogue, diuretic, emmenagogue, febrifuge, stomachic, laxative, obstruent, anti-hepatotoxic, antilithic, anti-hypertensive, anti-HIV and anti-hepatitis B</string>
+    <string-array name="sampalukan_usage">
+        <item>Decoction of entire plant used as tonic for the stomach.</item>
+        <item>Young leaves used for fevers.</item>
+        <item>Chewing of fresh leaves used for hiccups.</item>
+        <item>Used for baths in newborns.</item>
+    </string-array>
+
+    <string-array name="lagundi">
+        <item>chinese chastetree</item>
+<!--        <item>twig</item>-->
+<!--        <item>m-tree</item>-->
+        <item>family</item>
+    </string-array>
+    <string-array name="akapulko">
+        <item>senna alata</item>
+        <item>akapulko</item>
+        <item>Senna</item>
+    </string-array>
+    <string-array name="gotu_kola">
+        <item>Azadirachta</item>
+        <item>Azadirachta indica</item>
+        <item>Ulmaceae</item>
+        <item>Elm</item>
+        <item>Close-up</item>
+    </string-array>
+    <string-array name="tsaang_gubat">
+        <item>fukien tea tree</item>
+        <item>Carmona retusa</item>
+    </string-array>
+    <string-array name="yerba_buena">
+        <item>spearmint</item>
+        <item>Yerba buena</item>
+        <item>Clinopodium douglasii</item>
+    </string-array>
+    <string-array name="malunggay">
+        <item>drumstick tree</item>
+        <item>Shamrock</item>
+    </string-array>
+    <string-array name="niyog_niyogan">
+        <item>combretum indicum</item>
+    </string-array>
+    <string-array name="bayabas">
+        <item>common guava</item>
+        <item>guava</item>
+        <item>bayabas</item>
+    </string-array>
+    <string-array name="pancit_pancitan">
+        <item>peperomia pellucida</item>
+        <item>Radiator plants</item>
+<!--        <item>branch</item>-->
+        <item>produce</item>
+        <item>basil</item>
+    </string-array>
+    <string-array name="oregano">
+        <item>mexican mint</item>
+        <item>oregano</item>
+    </string-array>
+    <string-array name="tawa_tawa">
+        <item>asthma-plant</item>
+        <item>asthma plant</item>
+    </string-array>
+    <string-array name="saluyot">
+        <item>corchorus</item>
+        <item>corchorus olitorius</item>
+    </string-array>
+    <string-array name="sampalukan">
+        <item>phyllanthus</item>
+        <item>phyllanthus urinaria</item>
+        <item>pattern</item>
+        <item>art</item>
+        <item>font</item>
+        <item>Houseplant</item>
+        <item>Subshrub</item>
+    </string-array>
+    <string-array name="sambong">
+        <item>Ngai camphor</item>
+        <item>Camphor</item>
+        <item>Blumea</item>
+    </string-array>
+    <string-array name="ampalaya">
+        <item>Momordica charantia</item>
+        <item>bitter</item>
+        <item>bitter melon</item>
+        <item>ampalaya</item>
+        <item>Bitter Gourd</item>
+        <item>Spring greens</item>
+        <item>Collard</item>
+    </string-array>
+
+    <string-array name="herbalList">
+        <item>@string/lagundi_title</item>
+        <item>@string/yerba_title</item>
+        <item>@string/tsaang_title</item>
+        <item>@string/niyog_title</item>
+        <item>@string/akapulko_title</item>
+        <item>@string/garlic_title</item> <!-- Bayabas -->
+        <item>@string/sambong_title</item>
+        <item>@string/gotu_title</item>
+        <item>@string/malunggay_title</item>
+        <item>@string/oregano_title</item>
+        <item>@string/saluyot_title</item>
+        <item>@string/tawa_title</item>
+        <item>@string/sampalukan_title</item>
+        <item>@string/amplaya_title</item>
+        <item>@string/pancit_title</item>
+    </string-array>
+
+    <string-array name="scientificNames">
+        <item>@string/lagundi_name</item>
+        <item>@string/yerba_name</item>
+        <item>@string/tsaang_name</item>
+        <item>@string/niyog_name</item>
+        <item>@string/akapulko_name</item>
+        <item>@string/garlic_name</item> <!-- Bayabas -->
+        <item>@string/sambong_name</item>
+        <item>@string/gotu_name</item>
+        <item>@string/malunggay_name</item>
+        <item>@string/oregano_name</item>
+        <item>@string/saluyot_name</item>
+        <item>@string/tawa_name</item>
+        <item>@string/sampalukan_name</item>
+        <item>@string/amplaya_name</item>
+        <item>@string/pancit_name</item>
+    </string-array>
+
+    <string-array name="diseases">
+        <item>@string/lagundi_treatment</item>
+        <item>@string/yerba_treatment</item>
+        <item>@string/tsaang_treatment</item>
+        <item>@string/niyog_treatment</item>
+        <item>@string/akapulko_treatment</item>
+        <item>@string/garlic_treatment</item> <!-- Bayabas -->
+        <item>@string/sambong_treatment</item>
+        <item>@string/gotu_treatment</item>
+        <item>@string/malunggay_treatment</item>
+        <item>@string/oregano_treatment</item>
+        <item>@string/saluyot_treatment</item>
+        <item>@string/tawa_treatment</item>
+        <item>@string/sampalukan_treatment</item>
+        <item>@string/amplaya_treatment</item>
+        <item>@string/pancit_treatment</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>@string/lagundi_desc</item>
+        <item>@string/yerba_desc</item>
+        <item>@string/tsaang_desc</item>
+        <item>@string/niyog_desc</item>
+        <item>@string/akapulko_desc</item>
+        <item>@string/garlic_desc</item> <!-- Bayabas -->
+        <item>@string/sambong_desc</item>
+        <item>@string/gotu_desc</item>
+        <item>@string/malunggay_desc</item>
+        <item>@string/oregano_desc</item>
+        <item>@string/saluyot_desc</item>
+        <item>@string/tawa_desc</item>
+        <item>@string/sampalukan_desc</item>
+        <item>@string/amplaya_desc</item>
+        <item>@string/pancit_desc</item>
+    </string-array>
+
+    <string-array name="locations">
+        <item>@string/lagundi_location</item>
+        <item>@string/yerba_location</item>
+        <item>@string/tsaang_location</item>
+        <item>@string/niyog_location</item>
+        <item>@string/akapulko_location</item>
+        <item>@string/garlic_location</item> <!-- Bayabas -->
+        <item>@string/sambong_location</item>
+        <item>@string/gotu_location</item>
+        <item>@string/malunggay_location</item>
+        <item>@string/oregano_location</item>
+        <item>@string/saluyot_location</item>
+        <item>@string/tawa_location</item>
+        <item>@string/sampalukan_location</item>
+        <item>@string/amplaya_location</item>
+        <item>@string/pancit_location</item>
+    </string-array>
+
+    <string-array name="common">
+        <item>@string/lagundi_common</item>
+        <item>@string/yerba_common</item>
+        <item>@string/tsaang_common</item>
+        <item>@string/niyog_common</item>
+        <item>@string/akapulko_common</item>
+        <item>@string/garlic_common</item> <!-- Bayabas -->
+        <item>@string/sambong_common</item>
+        <item>@string/gotu_common</item>
+        <item>@string/malunggay_common</item>
+        <item>@string/oregano_common</item>
+        <item>@string/saluyot_common</item>
+        <item>@string/tawa_common</item>
+        <item>@string/sampalukan_common</item>
+        <item>@string/amplaya_common</item>
+        <item>@string/pancit_common</item>
+    </string-array>
+
+    <string-array name="good">
+        <item>@string/lagundi_good</item>
+        <item>@string/yerba_good</item>
+        <item>@string/tsaang_good</item>
+        <item>@string/niyog_good</item>
+        <item>@string/akapulko_good</item>
+        <item>@string/garlic_good</item> <!-- Bayabas -->
+        <item>@string/sambong_good</item>
+        <item>@string/gotu_good</item>
+        <item>@string/malunggay_good</item>
+        <item>@string/oregano_good</item>
+        <item>@string/saluyot_good</item>
+        <item>@string/tawa_good</item>
+        <item>@string/sampalukan_good</item>
+        <item>@string/amplaya_good</item>
+        <item>@string/pancit_good</item>
+    </string-array>
+
+    <string-array name="topical">
+        <item>@string/lagundi_topical</item>
+        <item>@string/yerba_topical</item>
+        <item>@string/tsaang_topical</item>
+        <item>@string/niyog_topical</item>
+        <item>@string/akapulko_topical</item>
+        <item>@string/garlic_topical</item> <!-- Bayabas -->
+        <item>@string/sambong_topical</item>
+        <item>@string/gotu_topical</item>
+        <item>@string/malunggay_topical</item>
+        <item>@string/oregano_topical</item>
+        <item>@string/saluyot_topical</item>
+        <item>@string/tawa_topical</item>
+        <item>@string/sampalukan_topical</item>
+        <item>@string/amplaya_topical</item>
+        <item>@string/pancit_topical</item>
+    </string-array>
+
+    <string name="plant_disclaimer">The information we provide is not intended to be a substitute for medical treatment. Please consult your medical care provider before using herbal plant, particularly if you have a known medical condition or if you are pregnant or nursing.\n\nYou should not use the information or services on this App to diagnose or treat any health issues or for prescription of any medication or other treatment. You should always consult with your healthcare professional and read information provided by the product manufacture and any product label or packaging, prior to using any medication, nutritional, herbal or homeopathic product or before beginning any exercise or diet program or starting any treatment for a health issue. Individuals are different and may react differently to different products.\n\nYou should consult your physician about interactions between medications you are taking and nutritional supplements. Comments made in any forums on this App by employees or App users are strictly their own personal views made in their own personal capacity and are not claims made by us or do they represent the position or view of Tap on Heal Today. Product ratings by any current or previous employees or App users are strictly their own personal views made in their own personal capacity and are not intended as a substitute for appropriate medical care or advice from a healthcare professional.\n\nAlways check the product label or packaging prior to using any product. If there are discrepancies, customers should follow the information provided on the product label or packaging. You should contact the manufacturer directly for clarification as to product labeling and packaging details and recommended use.\n\nTap on Heal Today is not liable for any information provided on this App with regard to recommendations regarding supplements for any health purposes. The products or claims made about specific nutrients or products have not been evaluated by the Food and Drug Administration. Dietary products are not intended to treat, prevent or cure disease. Consult with a healthcare professional before starting any diet, supplement or exercise program.\n\nThis app makes no guarantee or warranty with respect to any products or services sold.Tap on Heal Today is not responsible for any damages for information or services provided even if Tap on Heal Today has been advised of the possibility of damages.</string>
+
+    <string name="entry_java_title">Java</string>
+    <string name="entry_java_subtitle">Run the MLKit Showcase written in Java.</string>
+    <string name="entry_kotlin_title">Kotlin</string>
+    <string name="entry_kotlin_subtitle">Run the MLKit Showcase written in Kotlin.</string>
+    <string name="mode_odt_live_title">Object Detection: Live Camera</string>
+    <string name="mode_odt_live_subtitle">A device’s live camera can be used to detect objects in an environment.</string>
+    <string name="mode_odt_static_title">Object Detection: Static Image</string>
+    <string name="mode_odt_static_subtitle">One or more objects can be detected from a provided image.</string>
+    <string name="mode_barcode_live_title">Barcode Scanning</string>
+    <string name="mode_barcode_live_subtitle">Read data encoded in most standard barcode formats.</string>
+    <string name="settings_title">MLKit Showcase Settings</string>
+    <string name="cd_settings_button">Settings</string>
+    <string name="cd_close_button">Back</string>
+    <string name="cd_flash_button">Toggle camera flash</string>
+    <string name="cd_photo_library_button">Upload image</string>
+    <string name="prompt_point_at_an_object">Point your camera at an object</string>
+    <string name="prompt_point_at_a_barcode">Point your camera at a barcode</string>
+    <string name="prompt_hold_camera_steady">Keep camera still for a moment</string>
+    <string name="prompt_move_camera_closer">Move closer to search</string>
+    <string name="prompt_searching">Searching&#8230;</string>
+    <string name="product_search_button">Identify herbal</string>
+    <plurals name="bottom_sheet_title">
+        <item quantity="one">%d match found</item>
+        <item quantity="other">%d detected herbals found</item>
+    </plurals>
+    <string name="static_image_prompt_detected_no_results">No results found</string>
+    <string name="static_image_prompt_detected_results">Tap on a dot to inspect</string>
+    <string name="static_image_card_no_result_title">No result found</string>
+    <string name="static_image_card_no_result_subtitle">Support text place holder</string>
+    <string name="static_image_preview_card_subtitle">+%d more results</string>
+
+    <!-- Strings for camera settings. -->
+    <string name="pref_category_camera">Camera</string>
+    <string name="pref_key_rear_camera_preview_size" translatable="false">rcpvs</string>
+    <string name="pref_key_rear_camera_picture_size" translatable="false">rcpts</string>
+    <string name="pref_title_rear_camera_preview_size">Rear camera preview size</string>
+
+    <!-- Strings for object detection settings. -->
+    <string name="pref_category_object_detection">Object detection</string>
+    <string name="pref_key_object_detector_enable_multiple_objects" translatable="false">odemo</string>
+    <string name="pref_title_object_detector_enable_multiple_objects">Enable multiple objects</string>
+    <string name="pref_key_object_detector_enable_classification" translatable="false">odec</string>
+    <string name="pref_title_object_detector_enable_classification">Enable classification</string>
+
+    <!-- Strings for object search settings. -->
+    <string name="pref_category_product_search">Herbal search</string>
+    <string name="pref_key_enable_auto_search" translatable="false">pkeas</string>
+    <string name="pref_title_enable_auto_search">Enable auto search</string>
+    <string name="pref_key_confirmation_time_in_manual_search" translatable="false">ctims</string>
+    <string name="pref_title_confirmation_time_in_manual_search">Confirmation time in manual search</string>
+    <string name="pref_summary_confirmation_time_in_manual_search">Ranges from 100ms to 1000ms</string>
+    <string name="pref_key_confirmation_time_in_auto_search" translatable="false">ctias</string>
+    <string name="pref_title_confirmation_time_in_auto_search">Confirmation time in auto search</string>
+    <string name="pref_summary_confirmation_time_in_auto_search">Ranges from 500ms to 2000ms</string>
+
+    <!-- Strings for barcode detection settings. -->
+    <string name="pref_category_barcode_detection">Barcode detection</string>
+    <string name="pref_key_barcode_reticle_width" translatable="false">barcode_brw</string>
+    <string name="pref_title_barcode_reticle_width">Barcode reticle width</string>
+    <string name="pref_summary_barcode_reticle_width" formatted="false">Relative to the camera view width, ranges from 50% to 95%</string>
+    <string name="pref_key_barcode_reticle_height" translatable="false">barcode_brh</string>
+    <string name="pref_title_barcode_reticle_height">Barcode reticle height</string>
+    <string name="pref_summary_barcode_reticle_height" formatted="false">Relative to the camera view height, ranges from 20% to 80%</string>
+    <string name="pref_key_enable_barcode_size_check" translatable="false">barcode_ebsc</string>
+    <string name="pref_title_enable_barcode_size_check">Enable barcode size check</string>
+    <string name="pref_summary_enable_barcode_size_check">Will prompt user to move camera closer if the detected barcode is too small</string>
+    <string name="pref_key_minimum_barcode_width" translatable="false">barcode_mbw</string>
+    <string name="pref_title_minimum_barcode_width">Minimum barcode width</string>
+    <string name="pref_summary_minimum_barcode_width" formatted="false">Relative to the reticle width, ranges from 20% to 80% (only applicable when barcode size check enabled)</string>
+    <string name="pref_key_delay_loading_barcode_result" translatable="false">barcode_dlbr</string>
+    <string name="pref_title_delay_loading_barcode_result">Delay loading barcode result</string>
+    <string name="pref_summary_delay_loading_barcode_result">Will show the loading spinner for 2s</string>
+
+    <string name="disclaimer">
+        This Applications offers health, medical and herbal information and is designed for educational and support purposes only. You should not rely on this information as a substitute for, nor does it replace, professional medical advice, diagnosis, or treatment. If you have any concerns or questions about your health, you should always consult with a physician or other health-care professional.\n\nDo not disregard, avoid or delay obtaining medical or health related advice from your health-care professional because of something you may have found out on the Application. The use of any information provided on the Application is solely at your own risk. The information and services provided by using the Hiling Galing App should not replace professional care and treatment.
+    </string>
+    <string name="no_similar_leaves">No similar leaves for this treatment…</string>
+    <string name="wait">Please wait…</string>
+
+</resources>

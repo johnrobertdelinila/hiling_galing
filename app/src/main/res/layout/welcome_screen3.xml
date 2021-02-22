@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@android:color/white"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:layout_centerInParent="true"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:id="@+id/center_title"
+        android:layout_centerInParent="true"
+        style="@style/TextAppearance.MaterialComponents.Headline6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/slide_3_title"
+        android:textColor="@color/textColorPrimary"
+        android:textSize="@dimen/slide_title" />
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_above="@+id/center_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="36dp"
+        android:adjustViewBounds="true"
+        android:contentDescription="@string/main_content_description_implementation_image"
+        android:cropToPadding="false"
+        app:srcCompat="@drawable/intro_image_three" />
+
+    <TextView
+        style="@style/TextAppearance.MaterialComponents.Body1"
+        android:layout_below="@+id/center_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="@dimen/desc_padding"
+        android:paddingRight="@dimen/desc_padding"
+        android:text="@string/slide_3_desc"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/slide_desc" />
+
+</RelativeLayout>

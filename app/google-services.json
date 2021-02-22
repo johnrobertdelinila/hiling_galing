@@ -1,0 +1,138 @@
+{
+  "project_info": {
+    "project_number": "685277552079",
+    "firebase_url": "https://hiling-galing.firebaseio.com",
+    "project_id": "hiling-galing",
+    "storage_bucket": "hiling-galing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685277552079:android:b80d97e975c1ebb4",
+        "android_client_info": {
+          "package_name": "com.example.classifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685277552079-0pksi5nf70ik3p4kgj8aiq1csgtf49e8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.classifier",
+            "certificate_hash": "e7984b491a116a5da37e682034dac1132d707c5c"
+          }
+        },
+        {
+          "client_id": "685277552079-g70lfnvfcn0emqts17qcjb7lebusegm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDbKzndAu-al7tF2KFfWbvXo0Zc_i3rCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685277552079-g70lfnvfcn0emqts17qcjb7lebusegm5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685277552079-fm2avdqr6n7ckafkes6oorc5hcr7fpdf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.imageclassifier",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685277552079:android:ad3f7f1fb732a676",
+        "android_client_info": {
+          "package_name": "com.example.hilinggaling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685277552079-2tniho75jrcrm0bom927l4e57p0lfghl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hilinggaling",
+            "certificate_hash": "e7984b491a116a5da37e682034dac1132d707c5c"
+          }
+        },
+        {
+          "client_id": "685277552079-g70lfnvfcn0emqts17qcjb7lebusegm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDbKzndAu-al7tF2KFfWbvXo0Zc_i3rCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685277552079-g70lfnvfcn0emqts17qcjb7lebusegm5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685277552079-fm2avdqr6n7ckafkes6oorc5hcr7fpdf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.imageclassifier",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685277552079:android:c40de812bcd5cda50d06ba",
+        "android_client_info": {
+          "package_name": "com.lorma.hilinggaling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685277552079-g70lfnvfcn0emqts17qcjb7lebusegm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDbKzndAu-al7tF2KFfWbvXo0Zc_i3rCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685277552079-g70lfnvfcn0emqts17qcjb7lebusegm5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685277552079-fm2avdqr6n7ckafkes6oorc5hcr7fpdf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.imageclassifier",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

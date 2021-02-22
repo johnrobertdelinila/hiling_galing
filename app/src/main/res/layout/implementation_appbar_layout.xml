@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.appbar.AppBarLayout android:id="@+id/app_bar_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+    android:fitsSystemWindows="true"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.google.android.material.appbar.CollapsingToolbarLayout
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        app:layout_scrollFlags="scroll|exitUntilCollapsed"
+        app:contentScrim="@color/toolbarBackground"
+        android:fitsSystemWindows="true"
+        >
+
+        <!--<ImageView
+            app:layout_collapseMode="parallax"
+            android:src="@drawable/lagundi_bg"
+            android:contentDescription="@string/app_name"
+            android:scaleType="centerCrop"
+            android:layout_width="match_parent"
+            android:layout_height="350dp" />-->
+
+        <RelativeLayout
+            app:layout_collapseMode="parallax"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/detail_image"
+                android:src="@drawable/lagundi_image"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:adjustViewBounds="true"
+                android:contentDescription="@string/main_content_description_implementation_image"
+                android:transitionName="@string/transition_name_implementation_image"
+                android:layout_gravity="center"
+                android:fitsSystemWindows="true"
+                android:scaleType="centerCrop" />
+
+            <!--A view that draws a semi transparent black overlay so that title is visible once expanded -->
+            <View
+                android:id="@+id/scrim_color"
+                android:layout_width="match_parent"
+                android:layout_height="108dp"
+                android:layout_alignParentBottom="true"
+                android:background="@color/black_transparent" />
+
+        </RelativeLayout>
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+            app:title="@string/sambong_title"
+            app:layout_collapseMode="pin" />
+
+    </com.google.android.material.appbar.CollapsingToolbarLayout>
+
+
+
+</com.google.android.material.appbar.AppBarLayout>
